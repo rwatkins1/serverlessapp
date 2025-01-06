@@ -2,8 +2,8 @@
 
 Serverless Web Application
 A serverless web application using AWS services and Terraform for infrastructure as code.
-Architecture
 
+Architecture
 Frontend: S3-hosted static form
 API Layer: API Gateway + Lambda functions
 Database: DynamoDB
